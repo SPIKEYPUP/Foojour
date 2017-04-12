@@ -1,4 +1,4 @@
-H1> General Introduction... <i>What Is FooJour??</i></H1>
+<H1> General Introduction... <i>What Is FooJour??</i></H1>
 
   <p>In General <b><i>"Foojour"</i></b> is my way of trying to push the creative envelope within myself to create either new and useful, or interesting and appealing components, scripts, and general code for the Foobar2K Ecosystem.  If you have not tried Foobar2K for all of your music playing needs, well then my friend, look no further.</p>
 
