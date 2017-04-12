@@ -1,4 +1,4 @@
-<H1> General Introduction... <i>What Is FooJour??</i></H1>
+H1> General Introduction... <i>What Is FooJour??</i></H1>
 
   <p>In General <b><i>"Foojour"</i></b> is my way of trying to push the creative envelope within myself to create either new and useful, or interesting and appealing components, scripts, and general code for the Foobar2K Ecosystem.  If you have not tried Foobar2K for all of your music playing needs, well then my friend, look no further.</p>
 
@@ -42,7 +42,9 @@
 
 <p>9. I use Foobar2K for pretty much ALL of my library needs: tagging, Converting, large search queries, Importing, Ripping, Upsampling, Basic Audio Analysis, Meta Tag Management, etc...</p>
 
-<p>10. Thanks for your interest in Foobar2K and in my little code tidbits!  You can always catch me broadcasting on Youtube as SPIKEYPUP, or on Twitch.tv/spikeypup1, hitbox, dailymotion, etc.  Just search for the pup using SPIKEYPUP.  See you there!</p>
+<p>10. I operate my own FreeDB MusicBrainz server to catalogue and keep my collection up to date with tags, comments, ratings, reviews and artwork.  It's 50GB, but it's worth it!  When I want to catalogue I just spin up the VM (it runs on Ubuntu Linux), get a current replication update, wait a day for that to finish, create indexes, wait another day for that to finish, then boom!  Away I go!  It is by far faster having the server local handling my requests only, it's at least 10,000% faster, and if you've tried to index and catalog your collection from a public freeDB server, you know exactly what I mean.  They're slammed!  So if you have a large collection, I recommend D/L the VM, replicating to get current (then setup auto replication and turn the VM on for a couple days a week to sync and index) and then let Foobar2K use it as a local tagging source, setup your desired tag pulls, and go to town!  It costs ZILCH to do, and it's pretty dang easy, the folks running MusicBrainz have already done all the hard work, just plop it into VirtualBox (Oracle VM Player) and get replicating!  Plus... if you have a more obscure but well tagged collection, you can add to the repository as well by replicating two-way with the public servers.  Share the wealth I always say!</p>
 
-<p>This project was created and authored by Patrick Ewalt AkA SPIKEYPUP under the MIT Software license.  Enjoy and mutate it folks!</p>
+<p>11. Thanks for your interest in Foobar2K and in my little code tidbits!  You can always catch me broadcasting on Youtube as SPIKEYPUP, or on Twitch.tv/spikeypup1, hitbox, dailymotion, etc.  Just search for the pup using SPIKEYPUP.  See you there!</p>
+
+<p>This project was created and authored by Patrick Ewalt A.K.A. SPIKEYPUP under the MIT Software license.  Enjoy and mutate it folks! If you do recycle and share this code please do make a mention for me if you could or send them back to this Github Repo!  Thanks!</p>
 
