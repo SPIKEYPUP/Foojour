@@ -10,7 +10,7 @@ $crlf()
 $progress2(%_time_elapsed_seconds%,%_time_total_seconds%,24,$char(9635),$char(9633))$crlf()
 [Last Played: '['$date(%last_played%)']' TOTAL: %play_count%]$crlf()
 $crlf()
-[$pad('Remaining:',18)[$pad(%playback_time_remaining%,5)$crlf()]]
 [$pad('Position:',20)[$pad(%playback_time%,5)]$crlf()]
+[$pad('Remaining:',18)[$pad(%playback_time_remaining%,5)$crlf()]]
 [$pad('Total:',22)$pad(%length%,5)]
 )]
