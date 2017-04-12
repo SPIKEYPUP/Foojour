@@ -1,0 +1,15 @@
+[$caps2(
+[>>>[%title%]<<<$crlf()]
+[[>%artist%<]$crlf() ]
+$crlf() 
+[$info(channel_mode)'CH - ']%channels%[' In '$info(MP3_STEREO_MODE)]$crlf()
+[%samplerate% Hz][ $info(bitspersample)-Bit]  '('%filesize_natural%')'$crlf()
+[$info(encoding)][' | '$info(codec)[' | '$info(codec_profile)]][ '|' $info(bitrate) Kpbs$crlf()]
+[Encoder: [$left(%__tool%,23)' '$crlf()]]
+[Tags: %__tagtype%$crlf() ]$crlf()
+<<[Last Played: '['$date(%last_played%)']' TOTAL: %play_count%]>>$crlf()
+>>>$progress2(%_time_elapsed_seconds%,%_time_total_seconds%,24,$char(9635),$char(9633))<<<$crlf()
+>>>[$pad('Position:',20)[$pad(%playback_time%,5)]<<<$crlf()]
+>>[$pad('Remaining:',18)[$pad(%playback_time_remaining%,5)<<$crlf()]]
+<[$pad('Total:',22)$pad(%length%,5)]>
+)]
