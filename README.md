@@ -11,18 +11,19 @@
   src="https://www.foobar2000.org/button-large.png" alt="foobar2000 audio player" width="110" height="32" /></a></p><break>
   
   
-  <B>https://www.foobar2000.org/</B><break>                  
-  <B>https://www.foobar2000.org/download</B><break>
+  <p><B>https://www.foobar2000.org/</B></p>
+  <p><B>https://www.foobar2000.org/download</B></p>
   
-  <B>SDK And Visual Studio Projects/Solutions Available:</B>
+  <p><B>SDK And Visual Studio Projects/Solutions Available:</B><p>
+  <p></p>
+  <p><b>https://www.foobar2000.org/SDK</b></p>
 
+<b><i>
+<sub>Foobar2K features a very active developer group that works on components, core, DSP, functionality, display, etc. for the multi-talented player and media library manager.
+</i></b></sub>
 
-  <b>https://www.foobar2000.org/SDK</b>
-
-<c1>Foobar2K features a very active developer group that works on components, core, DSP, functionality, display, etc. for the multi-talented player and media library manager.</c1>
-
-<heading>My Foobar Facts:</heading>  
-
+<p><heading>My Foobar Facts:</heading></p>
+<p></p>
 <p>1. I currently have about <B>6,000+ Albums in my Database</B><i><b>  That equates to about 110,000 Music Files!</b></i></p>
 
 <p>2. I have files that go as low as 64Kbps MP3 VBR0, to full 6 Channel DTS Decoded (FLAC) 24Bit-96Khz files ,<i>(if you are wondering in FLAC it is roughly 6Mbps-8Mbps or 6,000Kbps-8,000Kbps for those files, and yes, <u><b>they sound amazing.</b></u></i></p>
