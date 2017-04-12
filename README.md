@@ -35,7 +35,7 @@
 
 6. Yes I feel there is a difference using 24Bit and especially 96KhzSR, it's subtle and mostly a distinction feeling, like an airiness, but most will probably not notice...sigh.
 
-7. <b><i>Fun Fact!</i></b>  The Codecs and DSP engines on my sound card are capable of producing and processing 32-Bit 192Khz Stereo Resolution in realtime!  I tired it... works great, but not worth the insane overhead if not going Kernel or WASAPI, and even then...overhead.  Think about it, it's a lot of data that you are asking to be played back in zero_latency mode.  Plus I don't have any Wilson Watt Puppy's to throw at it, if ya know what I mean...
+7. <b><i>Fun Fact!</i></b>  The Codecs, DACs and DSPs on my sound card are capable of producing and processing 32-Bit 192Khz Stereo Resolution in realtime!  I tired it... works great, but not worth the insane overhead if not going Kernel or WASAPI, and even then...overhead.  Think about it, it's a lot of data that you are asking to be played back in zero_latency mode.  Plus I don't have any Wilson Watt Puppy's to throw at it, if ya know what I mean...
 
 8. I'll post some pictures so you can see my favorite layouts of Foobar2K using standard UI.  I don't use columns, not a preference, just never tried it.  I will soon though, there is a whole new world of coding available with Columns UI for Foobar2K.
 
