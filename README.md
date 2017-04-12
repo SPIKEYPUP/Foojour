@@ -1,12 +1,29 @@
-In General <b><i>"Foojour"</i></b> is my way of trying to push the creative envelope within myself to create either new and useful, or interesting and appealing components, scripts, and general code for the Foobar2K Ecosystem.  If you have not tried Foobar2K for all of your music playing needs, well then my friend, look no further.
+<H1> General Introduction... <i>What Is FooJour??</i></H1>
 
-https://www.foobar2000.org/  & https://www.foobar2000.org/download
-SDK And Visual Studio Projects/Solutions Available @ https://www.foobar2000.org/SDK
+  In General <b><i>"Foojour"</i></b> is my way of trying to push the creative envelope within myself to create either new and useful, or interesting and appealing components, scripts, and general code for the Foobar2K Ecosystem.  If you have not tried Foobar2K for all of your music playing needs, well then my friend, look no further.
 
-Foobar2K features a very active developer group that works on components, core, DSP, functionality, display, etc. for the multi-talented player and media library manager.  
+<H2>Relevant Links and References</H2>
+  
+  
+  <B> Foobar2K Downloads <i>(Android, iOS, Windows)</i></B><lf>
 
-<h1>My Foobar Facts:</h1>  
-1. I currently have about 6,000+ Albums in my Database <i>(That equates to about 110,000 Music Files)</i>
+<p><a href="https://www.foobar2000.org/" title="foobar2000 homepage"><img
+  src="https://www.foobar2000.org/button-large.png" alt="foobar2000 audio player" width="110" height="32" /></a></p><break>
+  
+  
+  <B>https://www.foobar2000.org/</B><break>                  
+  <B>https://www.foobar2000.org/download</B><break>
+  
+  <B>SDK And Visual Studio Projects/Solutions Available:</B>
+
+
+  <b>https://www.foobar2000.org/SDK</b>
+
+<c1>Foobar2K features a very active developer group that works on components, core, DSP, functionality, display, etc. for the multi-talented player and media library manager.</c1>
+
+<heading>My Foobar Facts:</heading>  
+
+1. I currently have about <B>6,000+ Albums in my Database</B><i><b>  That equates to about 110,000 Music Files!</b></i>
 
 2. I have files that go as low as 64Kbps MP3 VBR0, to full 6 Channel DTS Decoded (FLAC) 24Bit-96Khz files ,<i>(if you are wondering in FLAC it is roughly 6Mbps-8Mbps or 6,000Kbps-8,000Kbps for those files, and yes, <u><b>they sound amazing.</b></u></i>
 
@@ -27,3 +44,4 @@ Foobar2K features a very active developer group that works on components, core, 
 10. Thanks for your interest in Foobar2K and in my little code tidbits!  You can always catch me broadcasting on Youtube as SPIKEYPUP, or on Twitch.tv/spikeypup1, hitbox, dailymotion, etc.  Just search for the pup using SPIKEYPUP.  See you there!
 
 This project was created and authored by Patrick Ewalt AkA SPIKEYPUP under the MIT Software license.  Enjoy and mutate it folks!
+
